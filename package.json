@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@jiexipei/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini functions library for first week of study in Lighthouse Lab",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Jessie-p05/lotide.git"
   },
-  "author": "",
+  "author": "jiexi pei",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jessie-p05/lotide/issues"

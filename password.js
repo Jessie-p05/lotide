@@ -14,7 +14,7 @@ const obfuscate = function (args) {
       obfuscatePassword += args[i];
     }
   }
-
+  return obfuscatePassword;
 };
 // obfuscate(args);
 
